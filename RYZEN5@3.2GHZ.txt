@@ -1,70 +1,70 @@
 //@author Berbecaru Alexandru Ionut(berbecaru.alex.ionut@gmail.com)
 
 //IDLE CPU(cooler @low speed)
-LUNI 18 oct 2017
+LUNI 18 dec 2017
 15:00:00    26C
 
-LUNI 18 oct 2017
+LUNI 18 dec 2017
 15:05:00    30C
 
-LUNI 18 oct 2017
+LUNI 18 dec 2017
 15:10:00    34C
 
-LUNI 18 oct 2017
+LUNI 18 dec 2017
 15:15:00    37C
 
-LUNI 18 oct 2017
+LUNI 18 dec 2017
 15:20:00    39C
 
-LUNI 18 oct 2017
+LUNI 18 dec 2017
 15:25:00    41C
 
-LUNI 18 oct 2017
+LUNI 18 dec 2017
 15:30:00    42C
 
 
 //50% WORK LOAD(cooler @normal speed)
 
-LUNI 18 oct 2017
+LUNI 18 dec 2017
 16:00:00    29C
 
-LUNI 18 oct 2017
+LUNI 18 dec 2017
 16:05:00    37C
 
-LUNI 18 oct 2017
+LUNI 18 dec 2017
 16:10:00    44C
 
-LUNI 18 oct 2017
+LUNI 18 dec 2017
 16:15:00    49C
 
-LUNI 18 oct 2017
+LUNI 18 dec 2017
 16:20:00    53C
 
-LUNI 18 oct 2017
+LUNI 18 dec 2017
 16:25:00    58C
 
-LUNI 18 oct 2017
+LUNI 18 dec 2017
 16:30:00    60C
 
 //100% WORK LOAD(cooler @full speed)
 
-LUNI 18 oct 2017
+LUNI 18 dec 2017
 17:00:00    31C
 
-LUNI 18 oct 2017
+LUNI 18 dec 2017
 17:05:00    42C
 
-LUNI 18 oct 2017
+LUNI 18 dec 2017
 17:10:00    47C
 
-LUNI 18 oct 2017
+LUNI 18 dec 2017
 17:15:00    52C
 
-LUNI 18 oct 2017
+LUNI 18 dec 2017
 17:20:00    56C
 
-LUNI 18 oct 2017
+LUNI 18 dec 2017
 17:25:00    61C
 
-LUNI 18 oct 2017
+LUNI 18 dec 2017
 17:30:00    65C
