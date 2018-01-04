@@ -1,0 +1,8 @@
+Proiectul are la baza o placa Arduino Uno conectat cu un modul RTC(afisare zi/luna/an/ora) un senzor de temperatura/umiditate.
+Pentru modificarea datelor din modulul RTC am optat pentru un modul Bluetooth in locul unor butoane/tastatura.
+Toate informatiile modulelor se vor afisa pe afisaz LCD(16x2),pentru simplificarea ansamblului am ales modelul I2C(2 fire)
+Senzorul de temperatura este folosit pentru a studia temperaturile a doua procesoare Ryzen 7/5 la vitezele stock respectiv boost.
+Procesorul Ryzen7 1800X(TDP-95W) este racit de un cooler pe baza de lichid,in timp ce Ryzen5 1600 este racit cu un cooler stock AMD.
+Atasat in folder se gasesc fisiere txt cu afisarea temperaturilor procesoarelor,supuse la teste de 30 de minute, la intervale de 5 minute 
+temperatura citita de catre senzor este inregistrata.
+Evolutia temperaturiilor fiecarui procesor este reprezentata si grafic. 

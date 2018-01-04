@@ -1,3 +1,4 @@
+//@author Berbecaru Alexandru Ionut(berbecaru.alex.ionut@gmail.com)
 #include <LiquidCrystal.h>
 
 LiquidCrystal lcd(0);
@@ -21,7 +22,7 @@ volatile int sec_afis=1;
 volatile boolean afis=true;
 
 void setup() {
-  // put your setup code here, to run once:
+ 
 
   bluetooth.begin(9600);
 
@@ -48,7 +49,7 @@ void setup() {
 
 void loop() {
  
-  // put your main code here, to run repeatedly:
+  
 byte temp,hum;
 byte second,minute,hour,dayOfWeek,dayOfMonth,month,year;
 getDateDs1307(&second,&minute,&hour,&dayOfWeek,&dayOfMonth,&month,&year);
